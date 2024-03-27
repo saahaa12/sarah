@@ -1,0 +1,19 @@
+nav{
+    background-color: rgb(46, 232, 68);
+height: 300px;
+width: 400px;
+margin-left: auto;
+margin-right: auto;
+}
+
+li{
+    text-decoration: nome;
+}
+ul{
+    color: aliceblue;
+    
+}
+a{
+    color: white;
+
+}
